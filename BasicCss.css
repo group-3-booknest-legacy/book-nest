@@ -1,0 +1,27 @@
+:root {
+	--purple: #5534A5;
+	--dark-blue: #2155CD;
+	--light-blue: #0AA1DD;
+	--violet: #A85CF9;
+	--pink: #F473B9;
+	--aqua: #50BFC3;
+    --white: #FFFFFF;
+	--light-grey: #CDD4D9;
+	--dark-grey: #7B8E9B;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+/* Example of how to use colours
+
+.container {
+    background-color: var(--purple);
+     */
